@@ -1,6 +1,7 @@
 # Reto de Componente de Vista Previa de Artículo con HTML, CSS y JavaScript
 
 ![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-preview.jpg)
+![Vista previa del diseño para el reto del componente de vista previa de artículo](./design/desktop-active-state.jpg)
 
 Este proyecto es un reto de desarrollo frontend donde deberás crear un componente de vista previa de artículo, utilizando HTML, CSS y un poco de JavaScript para la funcionalidad de compartir en redes sociales.
 
@@ -47,7 +48,10 @@ El componente debe verse correctamente en los siguientes viewports:
 | Estilos CSS                      | 0.5        |
 | Funcionalidad del JavaScript     | 2          |
 | Adaptabilidad del diseño         | 0.5        |
+| Página desplegada                | 0          |
 | Total                            | 5.5        |
+
+**Nota:** Si la página no está desplegada, el parcial no será calificado, por eso se agrega ese ítem a la rúbrica de evaluación
 
 ## Recursos adicionales
 
